@@ -1,0 +1,3 @@
+Herunder skal du skrive dit brugernavn og kode
+brugernavn: MinBruger
+kode: MinK0de
